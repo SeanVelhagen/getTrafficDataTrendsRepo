@@ -1,0 +1,806 @@
+��LEGEND:,,,,,,,,
+L: Light Traffic,M: Medium Traffic,H: Heavy Traffic,,,,,,
+,,,,,,,,
+IS-INTER,DATE,TIME,AREA,LOCATION,NORTHBOUND,N-UPDATED,SOUTHBOUND,S-UPDATED
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Balintawak,M,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Kaingin Road,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Muñoz,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Bansalangin,M,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,North Ave.,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Trinoma,M,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,NIA Road,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Timog,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Kamuning,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,New York - Nepa Q-Mart,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Monte De Piedad,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Aurora Blvd.,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Mc Arthur - Farmers,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,P. Tuazon,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Main Ave.,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Santolan,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,White Plains - Connecticut,M,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,SM Megamall,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Shaw Blvd.,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Reliance,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Pioneer - Boni,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Guadalupe,H,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Orense,H,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Kalayaan - Estrella,H,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Buendia,H,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Ayala Ave.,H,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Arnaiz - Pasay Road,H,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Malibay,H,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Tramo,L,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Taft Ave.,H,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,F.B. Harrison,H,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Macapagal Ave.,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,EDSA,Mall of Asia,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,COMMONWEALTH,Philcoa,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,QUEZON AVE.,Elliptical Road,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,QUEZON AVE.,Agham Road,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,QUEZON AVE.,Bantayog Road,H,11:37 am,H,11:37 am
+1,"Thursday, July 11, 2019",12:00 PM,QUEZON AVE.,Edsa,H,11:37 am,H,11:37 am
+1,"Thursday, July 11, 2019",12:00 PM,EDSA,Quezon Ave.,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:00 PM,QUEZON AVE.,SGT. Esguera,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Scout Albano,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Scout Borromeo,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Scout Santiago,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Timog,M,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Scout Reyes,M,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Scout Magbanua,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Roces Avenue,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Roosevelt Avenue,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Dr. Garcia Sr.,M,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Scout Chuatoco,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,G. Araneta Ave.,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Sto. Domingo,M,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Biak na Bato,M,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Banawe,M,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Cordillera,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,D. Tuazon,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Speaker Perez,H,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Apo Avenue,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Kanlaon,M,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,QUEZON AVE.,Mayon,M,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,Lerma,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,P.Noval,L,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,Gov. Forbes - Lacson,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,Vicente Cruz,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,Antipolo,M,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,A. Maceda,M,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,Bluementritt,M,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ESPAÑA,Welcome Rotunda,H,11:37 am,M,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Libis Flyover,H,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Eastwood,L,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Green Meadows,M,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,J. Vargas,L,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Lanuza,H,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Bagong Ilog,H,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Kalayaan,H,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Market! Market!,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Coastal Road,L,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Airport Road,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Baclaran,H,11:48 am,L,11:48 am
+1,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Edsa Extension,M,11:48 am,L,11:48 am
+1,"Thursday, July 11, 2019",12:01 PM,EDSA,Roxas Boulevard,H,11:37 am,H,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Buendia,H,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Pablo Ocampo,H,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Quirino,M,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Rajah Sulayman,M,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,U.N. Avenue,M,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Finance Road,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Anda Circle,L,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,SLEX,Alabang Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:01 PM,SLEX,Sucat Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:01 PM,SLEX,Bicutan Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:01 PM,SLEX,Merville Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:01 PM,SLEX,Nichols,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:01 PM,SLEX,Magallanes,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:01 PM,EDSA,Magallanes,H,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Batasan,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,St. Peter's Church,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Ever Gotesco,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Diliman Preparatory School,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Zuzuarregi,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,General Malvar Hospital,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Tandang Sora Eastside,H,12:01 pm,H,12:01 pm
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Tandang Sora Westside,H,12:01 pm,H,12:01 pm
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Central Ave,L,12:01 pm,L,12:01 pm
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,Magsaysay Ave,L,12:01 pm,L,12:01 pm
+0,"Thursday, July 11, 2019",12:01 PM,COMMONWEALTH,University Ave,L,12:01 pm,L,12:01 pm
+0,"Thursday, July 11, 2019",12:01 PM,MARCOS HIGHWAY,San Benildo School,M,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,MARCOS HIGHWAY,Robinson's Metro East,M,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,MARCOS HIGHWAY,F. Mariano Ave,M,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,MARCOS HIGHWAY,Amang Rodriguez,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,MARCOS HIGHWAY,Dona Juana,H,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,MARCOS HIGHWAY,LRT-2 Station,H,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,MARCOS HIGHWAY,SM City Marikina,H,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Santolan,H,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Madison,H,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Roosevelt,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Club Filipino,M,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Wilson,M,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Connecticut,M,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,La Salle Greenhills,L,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,POEA,L,11:48 am,M,11:48 am
+1,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,EDSA Shrine,L,11:48 am,L,11:48 am
+1,"Thursday, July 11, 2019",12:01 PM,EDSA,Ortigas Ave.,L,11:37 am,L,11:37 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,San Miguel Ave,L,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Meralco Ave,L,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Medical City,H,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Lanuza Ave,H,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,Greenmeadows Ave,H,11:48 am,L,11:48 am
+1,"Thursday, July 11, 2019",12:01 PM,ORTIGAS,C5 Flyover,H,11:48 am,L,11:48 am
+1,"Thursday, July 11, 2019",12:01 PM,C5,Ortigas Ave.,L,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Tandang Sora,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Capitol Hills,L,11:48 am,H,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,University of the Philippines,L,11:48 am,M,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,C.P. Garcia,M,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Miriam College,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Ateneo De Manila University,H,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Xavierville,H,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Aurora Boulevard,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,P. Tuazon,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,C5,Bonny Serrano,L,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:01 PM,SLEX,C5 On-ramp,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:01 PM,ROXAS BLVD.,Pedro Gil,M,11:48 am,L,11:48 am
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Balintawak,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Kaingin Road,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Muñoz,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Bansalangin,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,North Ave.,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Trinoma,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,NIA Road,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Timog,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Kamuning,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,New York - Nepa Q-Mart,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Monte De Piedad,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Aurora Blvd.,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Mc Arthur - Farmers,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,P. Tuazon,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Main Ave.,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Santolan,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,White Plains - Connecticut,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,SM Megamall,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Shaw Blvd.,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Reliance,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Pioneer - Boni,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Guadalupe,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Orense,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Kalayaan - Estrella,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Buendia,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Ayala Ave.,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Arnaiz - Pasay Road,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Malibay,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Tramo,L,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Taft Ave.,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,F.B. Harrison,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Macapagal Ave.,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,EDSA,Mall of Asia,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,COMMONWEALTH,Philcoa,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Elliptical Road,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Agham Road,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Bantayog Road,H,12:09 pm,H,12:09 pm
+1,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Edsa,H,12:09 pm,H,12:09 pm
+1,"Thursday, July 11, 2019",12:18 PM,EDSA,Quezon Ave.,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,SGT. Esguera,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Scout Albano,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Scout Borromeo,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Scout Santiago,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Timog,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Scout Reyes,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Scout Magbanua,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Roces Avenue,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Roosevelt Avenue,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Dr. Garcia Sr.,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Scout Chuatoco,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,G. Araneta Ave.,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Sto. Domingo,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Biak na Bato,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Banawe,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Cordillera,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,D. Tuazon,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Speaker Perez,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Apo Avenue,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Kanlaon,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,QUEZON AVE.,Mayon,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,ESPAÑA,Lerma,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:18 PM,ESPAÑA,P.Noval,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ESPAÑA,Gov. Forbes - Lacson,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ESPAÑA,Vicente Cruz,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ESPAÑA,Antipolo,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ESPAÑA,A. Maceda,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ESPAÑA,Bluementritt,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ESPAÑA,Welcome Rotunda,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,Libis Flyover,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,Eastwood,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,Green Meadows,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,J. Vargas,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,Lanuza,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,Bagong Ilog,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,Kalayaan,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,C5,Market! Market!,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Coastal Road,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Airport Road,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Baclaran,H,12:09 pm,L,12:09 pm
+1,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Edsa Extension,M,12:09 pm,L,12:09 pm
+1,"Thursday, July 11, 2019",12:19 PM,EDSA,Roxas Boulevard,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Buendia,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Pablo Ocampo,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Quirino,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Rajah Sulayman,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,U.N. Avenue,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Finance Road,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,ROXAS BLVD.,Anda Circle,L,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:19 PM,SLEX,Alabang Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:19 PM,SLEX,Sucat Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:19 PM,SLEX,Bicutan Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:19 PM,SLEX,Nichols,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Balintawak,M,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Kaingin Road,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Muñoz,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Bansalangin,M,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,North Ave.,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Trinoma,M,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,NIA Road,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Timog,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Kamuning,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,New York - Nepa Q-Mart,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Monte De Piedad,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Aurora Blvd.,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Mc Arthur - Farmers,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,P. Tuazon,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Main Ave.,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Santolan,L,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,White Plains - Connecticut,M,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,SM Megamall,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Shaw Blvd.,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Reliance,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Pioneer - Boni,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Guadalupe,H,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Orense,H,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Kalayaan - Estrella,H,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Buendia,H,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Ayala Ave.,H,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Arnaiz - Pasay Road,H,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Malibay,H,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Tramo,L,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Taft Ave.,H,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,F.B. Harrison,H,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Macapagal Ave.,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,EDSA,Mall of Asia,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,COMMONWEALTH,Philcoa,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Elliptical Road,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Agham Road,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Bantayog Road,H,12:23 pm,H,12:23 pm
+1,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Edsa,H,12:23 pm,H,12:23 pm
+1,"Thursday, July 11, 2019",12:24 PM,EDSA,Quezon Ave.,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,SGT. Esguera,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Scout Albano,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Scout Borromeo,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Scout Santiago,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Timog,M,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Scout Reyes,M,12:23 pm,M,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Scout Magbanua,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Roces Avenue,L,12:09 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Roosevelt Avenue,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Dr. Garcia Sr.,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Scout Chuatoco,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,G. Araneta Ave.,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Sto. Domingo,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Biak na Bato,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Banawe,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Cordillera,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,D. Tuazon,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Speaker Perez,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Apo Avenue,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Kanlaon,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,QUEZON AVE.,Mayon,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,Lerma,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,P.Noval,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,Gov. Forbes - Lacson,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,Vicente Cruz,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,Antipolo,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,A. Maceda,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,Bluementritt,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ESPAÑA,Welcome Rotunda,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,Libis Flyover,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,Eastwood,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,Green Meadows,M,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,J. Vargas,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,Lanuza,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,Bagong Ilog,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,Kalayaan,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,C5,Market! Market!,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Coastal Road,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Airport Road,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Baclaran,H,12:09 pm,L,12:09 pm
+1,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Edsa Extension,M,12:09 pm,L,12:09 pm
+1,"Thursday, July 11, 2019",12:24 PM,EDSA,Roxas Boulevard,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Buendia,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Pablo Ocampo,H,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Quirino,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Rajah Sulayman,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,U.N. Avenue,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Finance Road,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,ROXAS BLVD.,Anda Circle,L,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:24 PM,SLEX,Alabang Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:24 PM,SLEX,Sucat Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:24 PM,SLEX,Bicutan Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:24 PM,SLEX,Merville Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:24 PM,SLEX,Nichols,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:24 PM,SLEX,Magallanes,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:24 PM,EDSA,Magallanes,H,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,COMMONWEALTH,Batasan,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,COMMONWEALTH,St. Peter's Church,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,COMMONWEALTH,Ever Gotesco,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:24 PM,COMMONWEALTH,Diliman Preparatory School,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,COMMONWEALTH,Zuzuarregi,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,COMMONWEALTH,General Malvar Hospital,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,COMMONWEALTH,Tandang Sora Eastside,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,COMMONWEALTH,Tandang Sora Westside,H,12:23 pm,H,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,COMMONWEALTH,Central Ave,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,COMMONWEALTH,Magsaysay Ave,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,COMMONWEALTH,University Ave,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,MARCOS HIGHWAY,San Benildo School,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,MARCOS HIGHWAY,Robinson's Metro East,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,MARCOS HIGHWAY,F. Mariano Ave,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,MARCOS HIGHWAY,Amang Rodriguez,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,MARCOS HIGHWAY,Dona Juana,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,MARCOS HIGHWAY,LRT-2 Station,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,MARCOS HIGHWAY,SM City Marikina,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Santolan,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Madison,H,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Roosevelt,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Club Filipino,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Wilson,M,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Connecticut,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,La Salle Greenhills,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,POEA,L,12:09 pm,M,12:09 pm
+1,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,EDSA Shrine,L,12:09 pm,L,12:09 pm
+1,"Thursday, July 11, 2019",12:25 PM,EDSA,Ortigas Ave.,L,12:23 pm,L,12:23 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,San Miguel Ave,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Meralco Ave,L,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Medical City,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Lanuza Ave,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,Greenmeadows Ave,H,12:09 pm,L,12:09 pm
+1,"Thursday, July 11, 2019",12:25 PM,ORTIGAS,C5 Flyover,H,12:09 pm,L,12:09 pm
+1,"Thursday, July 11, 2019",12:25 PM,C5,Ortigas Ave.,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,Tandang Sora,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,Capitol Hills,L,12:09 pm,H,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,University of the Philippines,L,12:09 pm,M,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,C.P. Garcia,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,Miriam College,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,Ateneo De Manila University,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,Xavierville,H,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,Aurora Boulevard,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,P. Tuazon,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,C5,Bonny Serrano,L,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:25 PM,SLEX,C5 On-ramp,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:25 PM,ROXAS BLVD.,Pedro Gil,M,12:09 pm,L,12:09 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Balintawak,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Kaingin Road,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Muñoz,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Bansalangin,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,North Ave.,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Trinoma,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,NIA Road,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Timog,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Kamuning,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,New York - Nepa Q-Mart,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Monte De Piedad,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Aurora Blvd.,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Mc Arthur - Farmers,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,P. Tuazon,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Main Ave.,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Santolan,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,White Plains - Connecticut,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,SM Megamall,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Shaw Blvd.,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Reliance,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Pioneer - Boni,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Guadalupe,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Orense,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Kalayaan - Estrella,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Buendia,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Ayala Ave.,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Arnaiz - Pasay Road,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Malibay,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Tramo,L,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Taft Ave.,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,F.B. Harrison,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Macapagal Ave.,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,EDSA,Mall of Asia,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,COMMONWEALTH,Philcoa,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Elliptical Road,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Agham Road,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Bantayog Road,H,12:27 pm,H,12:27 pm
+1,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Edsa,H,12:27 pm,H,12:27 pm
+1,"Thursday, July 11, 2019",12:30 PM,EDSA,Quezon Ave.,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,SGT. Esguera,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Scout Albano,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Scout Borromeo,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Scout Santiago,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Timog,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Scout Reyes,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Scout Magbanua,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Roces Avenue,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Roosevelt Avenue,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Dr. Garcia Sr.,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Scout Chuatoco,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,G. Araneta Ave.,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Sto. Domingo,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Biak na Bato,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Banawe,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Cordillera,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,D. Tuazon,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Speaker Perez,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Apo Avenue,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Kanlaon,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,QUEZON AVE.,Mayon,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,Lerma,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,P.Noval,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,Gov. Forbes - Lacson,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,Vicente Cruz,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,Antipolo,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,A. Maceda,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,Bluementritt,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ESPAÑA,Welcome Rotunda,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,Libis Flyover,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,Eastwood,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,Green Meadows,M,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,J. Vargas,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,Lanuza,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,Bagong Ilog,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,Kalayaan,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,C5,Market! Market!,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Coastal Road,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Airport Road,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Baclaran,H,12:27 pm,L,12:27 pm
+1,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Edsa Extension,M,12:27 pm,L,12:27 pm
+1,"Thursday, July 11, 2019",12:30 PM,EDSA,Roxas Boulevard,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Buendia,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Pablo Ocampo,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Quirino,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Rajah Sulayman,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,U.N. Avenue,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Finance Road,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,ROXAS BLVD.,Anda Circle,L,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:30 PM,SLEX,Alabang Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:30 PM,SLEX,Sucat Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:30 PM,SLEX,Bicutan Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:30 PM,SLEX,Merville Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:31 PM,SLEX,Nichols,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:31 PM,SLEX,Magallanes,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:31 PM,EDSA,Magallanes,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Batasan,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,St. Peter's Church,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Ever Gotesco,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Diliman Preparatory School,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Zuzuarregi,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,General Malvar Hospital,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Tandang Sora Eastside,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Tandang Sora Westside,H,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Central Ave,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,Magsaysay Ave,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,COMMONWEALTH,University Ave,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,MARCOS HIGHWAY,San Benildo School,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,MARCOS HIGHWAY,Robinson's Metro East,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,MARCOS HIGHWAY,F. Mariano Ave,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,MARCOS HIGHWAY,Amang Rodriguez,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,MARCOS HIGHWAY,Dona Juana,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,MARCOS HIGHWAY,LRT-2 Station,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,MARCOS HIGHWAY,SM City Marikina,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Santolan,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Madison,H,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Roosevelt,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Club Filipino,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Wilson,M,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Connecticut,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,La Salle Greenhills,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,POEA,L,12:27 pm,M,12:27 pm
+1,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,EDSA Shrine,L,12:27 pm,L,12:27 pm
+1,"Thursday, July 11, 2019",12:31 PM,EDSA,Ortigas Ave.,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,San Miguel Ave,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Meralco Ave,L,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Medical City,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Lanuza Ave,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,Greenmeadows Ave,H,12:27 pm,L,12:27 pm
+1,"Thursday, July 11, 2019",12:31 PM,ORTIGAS,C5 Flyover,H,12:27 pm,L,12:27 pm
+1,"Thursday, July 11, 2019",12:31 PM,C5,Ortigas Ave.,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,Tandang Sora,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,Capitol Hills,L,12:27 pm,H,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,University of the Philippines,L,12:27 pm,M,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,C.P. Garcia,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,Miriam College,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,Ateneo De Manila University,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,Xavierville,H,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,Aurora Boulevard,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,P. Tuazon,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,C5,Bonny Serrano,L,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:31 PM,SLEX,C5 On-ramp,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:31 PM,ROXAS BLVD.,Pedro Gil,M,12:27 pm,L,12:27 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Balintawak,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Kaingin Road,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Muñoz,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Bansalangin,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,North Ave.,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Trinoma,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,NIA Road,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Timog,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Kamuning,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,New York - Nepa Q-Mart,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Monte De Piedad,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Aurora Blvd.,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:39 PM,EDSA,Mc Arthur - Farmers,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,P. Tuazon,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Main Ave.,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Santolan,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,White Plains - Connecticut,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,SM Megamall,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Shaw Blvd.,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Reliance,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Pioneer - Boni,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Guadalupe,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Orense,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Kalayaan - Estrella,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Buendia,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Ayala Ave.,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Arnaiz - Pasay Road,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Malibay,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Tramo,L,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Taft Ave.,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,F.B. Harrison,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Macapagal Ave.,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,EDSA,Mall of Asia,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Philcoa,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Elliptical Road,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Agham Road,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Bantayog Road,H,12:38 pm,H,12:38 pm
+1,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Edsa,H,12:38 pm,H,12:38 pm
+1,"Thursday, July 11, 2019",12:40 PM,EDSA,Quezon Ave.,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,SGT. Esguera,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Scout Albano,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Scout Borromeo,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Scout Santiago,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Timog,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Scout Reyes,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Scout Magbanua,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Roces Avenue,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Roosevelt Avenue,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Dr. Garcia Sr.,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Scout Chuatoco,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,G. Araneta Ave.,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Sto. Domingo,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Biak na Bato,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Banawe,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Cordillera,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,D. Tuazon,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Speaker Perez,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Apo Avenue,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Kanlaon,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,QUEZON AVE.,Mayon,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,Lerma,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,P.Noval,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,Gov. Forbes - Lacson,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,Vicente Cruz,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,Antipolo,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,A. Maceda,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,Bluementritt,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ESPAÑA,Welcome Rotunda,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,Libis Flyover,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,Eastwood,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,Green Meadows,M,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,J. Vargas,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,Lanuza,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,Bagong Ilog,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,Kalayaan,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,C5,Market! Market!,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Coastal Road,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Airport Road,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Baclaran,H,12:38 pm,L,12:38 pm
+1,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Edsa Extension,M,12:38 pm,L,12:38 pm
+1,"Thursday, July 11, 2019",12:40 PM,EDSA,Roxas Boulevard,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Buendia,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Pablo Ocampo,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Quirino,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Rajah Sulayman,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,U.N. Avenue,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Finance Road,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,ROXAS BLVD.,Anda Circle,L,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,SLEX,Alabang Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:40 PM,SLEX,Sucat Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:40 PM,SLEX,Bicutan Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:40 PM,SLEX,Merville Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:40 PM,SLEX,Nichols,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:40 PM,SLEX,Magallanes,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:40 PM,EDSA,Magallanes,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Batasan,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,St. Peter's Church,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Ever Gotesco,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Diliman Preparatory School,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Zuzuarregi,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,General Malvar Hospital,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Tandang Sora Eastside,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Tandang Sora Westside,H,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Central Ave,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,Magsaysay Ave,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,COMMONWEALTH,University Ave,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,MARCOS HIGHWAY,San Benildo School,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,MARCOS HIGHWAY,Robinson's Metro East,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,MARCOS HIGHWAY,F. Mariano Ave,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:40 PM,MARCOS HIGHWAY,Amang Rodriguez,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,MARCOS HIGHWAY,Dona Juana,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,MARCOS HIGHWAY,LRT-2 Station,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,MARCOS HIGHWAY,SM City Marikina,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Santolan,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Madison,H,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Roosevelt,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Club Filipino,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Wilson,M,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Connecticut,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,La Salle Greenhills,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,POEA,L,12:38 pm,M,12:38 pm
+1,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,EDSA Shrine,L,12:38 pm,L,12:38 pm
+1,"Thursday, July 11, 2019",12:41 PM,EDSA,Ortigas Ave.,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,San Miguel Ave,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Meralco Ave,L,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Medical City,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Lanuza Ave,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,Greenmeadows Ave,H,12:38 pm,L,12:38 pm
+1,"Thursday, July 11, 2019",12:41 PM,ORTIGAS,C5 Flyover,H,12:38 pm,L,12:38 pm
+1,"Thursday, July 11, 2019",12:41 PM,C5,Ortigas Ave.,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,Tandang Sora,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,Capitol Hills,L,12:38 pm,H,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,University of the Philippines,L,12:38 pm,M,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,C.P. Garcia,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,Miriam College,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,Ateneo De Manila University,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,Xavierville,H,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,Aurora Boulevard,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,P. Tuazon,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,C5,Bonny Serrano,L,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:41 PM,SLEX,C5 On-ramp,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:41 PM,ROXAS BLVD.,Pedro Gil,M,12:38 pm,L,12:38 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Balintawak,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Kaingin Road,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Muñoz,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Bansalangin,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,North Ave.,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Trinoma,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,NIA Road,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Timog,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Kamuning,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,New York - Nepa Q-Mart,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Monte De Piedad,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Aurora Blvd.,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Mc Arthur - Farmers,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,P. Tuazon,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Main Ave.,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Santolan,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,White Plains - Connecticut,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,SM Megamall,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Shaw Blvd.,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Reliance,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Pioneer - Boni,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Guadalupe,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Orense,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Kalayaan - Estrella,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Buendia,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Ayala Ave.,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Arnaiz - Pasay Road,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Malibay,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Tramo,L,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Taft Ave.,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,F.B. Harrison,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Macapagal Ave.,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,EDSA,Mall of Asia,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,COMMONWEALTH,Philcoa,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Elliptical Road,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Agham Road,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Bantayog Road,H,12:49 pm,H,12:49 pm
+1,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Edsa,H,12:49 pm,H,12:49 pm
+1,"Thursday, July 11, 2019",12:56 PM,EDSA,Quezon Ave.,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,SGT. Esguera,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Scout Albano,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Scout Borromeo,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Scout Santiago,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Timog,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Scout Reyes,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Scout Magbanua,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Roces Avenue,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Roosevelt Avenue,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Dr. Garcia Sr.,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Scout Chuatoco,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,G. Araneta Ave.,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Sto. Domingo,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Biak na Bato,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Banawe,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:56 PM,QUEZON AVE.,Cordillera,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,QUEZON AVE.,D. Tuazon,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,QUEZON AVE.,Speaker Perez,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,QUEZON AVE.,Apo Avenue,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,QUEZON AVE.,Kanlaon,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,QUEZON AVE.,Mayon,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,Lerma,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,P.Noval,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,Gov. Forbes - Lacson,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,Vicente Cruz,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,Antipolo,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,A. Maceda,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,Bluementritt,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ESPAÑA,Welcome Rotunda,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Libis Flyover,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Eastwood,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Green Meadows,M,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,J. Vargas,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Lanuza,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Bagong Ilog,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Kalayaan,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Market! Market!,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Coastal Road,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Airport Road,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Baclaran,H,12:49 pm,L,12:49 pm
+1,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Edsa Extension,M,12:49 pm,L,12:49 pm
+1,"Thursday, July 11, 2019",12:57 PM,EDSA,Roxas Boulevard,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Buendia,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Pablo Ocampo,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Quirino,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Rajah Sulayman,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,U.N. Avenue,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Finance Road,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Anda Circle,L,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,SLEX,Alabang Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:57 PM,SLEX,Sucat Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:57 PM,SLEX,Bicutan Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:57 PM,SLEX,Merville Exit,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:57 PM,SLEX,Nichols,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:57 PM,SLEX,Magallanes,L,5:49 am ,L,5:49 am 
+1,"Thursday, July 11, 2019",12:57 PM,EDSA,Magallanes,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Batasan,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,St. Peter's Church,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Ever Gotesco,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Diliman Preparatory School,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Zuzuarregi,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,General Malvar Hospital,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Tandang Sora Eastside,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Tandang Sora Westside,H,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Central Ave,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,Magsaysay Ave,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,COMMONWEALTH,University Ave,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,MARCOS HIGHWAY,San Benildo School,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,MARCOS HIGHWAY,Robinson's Metro East,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,MARCOS HIGHWAY,F. Mariano Ave,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,MARCOS HIGHWAY,Amang Rodriguez,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,MARCOS HIGHWAY,Dona Juana,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,MARCOS HIGHWAY,LRT-2 Station,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,MARCOS HIGHWAY,SM City Marikina,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Santolan,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Madison,H,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Roosevelt,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Club Filipino,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Wilson,M,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Connecticut,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,La Salle Greenhills,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,POEA,L,12:49 pm,M,12:49 pm
+1,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,EDSA Shrine,L,12:49 pm,L,12:49 pm
+1,"Thursday, July 11, 2019",12:57 PM,EDSA,Ortigas Ave.,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,San Miguel Ave,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Meralco Ave,L,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Medical City,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Lanuza Ave,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,Greenmeadows Ave,H,12:49 pm,L,12:49 pm
+1,"Thursday, July 11, 2019",12:57 PM,ORTIGAS,C5 Flyover,H,12:49 pm,L,12:49 pm
+1,"Thursday, July 11, 2019",12:57 PM,C5,Ortigas Ave.,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Tandang Sora,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Capitol Hills,L,12:49 pm,H,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,University of the Philippines,L,12:49 pm,M,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,C.P. Garcia,M,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Miriam College,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Ateneo De Manila University,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Xavierville,H,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Aurora Boulevard,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,P. Tuazon,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,C5,Bonny Serrano,L,12:49 pm,L,12:49 pm
+0,"Thursday, July 11, 2019",12:57 PM,SLEX,C5 On-ramp,L,5:49 am ,L,5:49 am 
+0,"Thursday, July 11, 2019",12:57 PM,ROXAS BLVD.,Pedro Gil,M,12:49 pm,L,12:49 pm
